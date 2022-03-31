@@ -1,8 +1,10 @@
 {
-  "name": " ",
+  "name": "gulp-test",
   "version": "0.0.1",
   "description": "",
-  "keywords": "",
+  "keywords": [
+    "gulp"
+  ],
   "license": "",
   "author": "",
   "scripts": {
